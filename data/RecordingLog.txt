@@ -1,0 +1,182 @@
+[API Trapper      ( a4c: 620)] Recording in 32-bit mode: C:\Program Files (x86)\Internet Explorer\iexplore.exe
+[API Trapper      ( ab4: 604)] Recording in 64-bit mode: C:\Program Files\Internet Explorer\IEXPLORE.EXE
+[API Trapper      ( 540: b10)] Recording in 32-bit mode: C:\Program Files (x86)\Internet Explorer\IEXPLORE.EXE
+[Network Analyzer ( 540: ae0)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( 540: ae0)] Load Network Traffic Analyzers:
+[Network Analyzer ( 540: ae0)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer.dll)
+[Network Analyzer ( 540: ae0)]     + Network Analyzer: WebSocketAnalyzer.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer ( 540: ae0)]     Analyzer Module: local_server (value=)
+[Network Analyzer ( 540: ae0)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( 540: 120)] Address lookup for IDC1-VM-UFT12 = 192.168.1.117
+[Network Analyzer ( 540: ae0)] Address lookup for IDC1-VM-UFT12 = 192.168.1.117
+[Network Analyzer ( 540: ae0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer ( 540: ae0)] Address lookup for IDC1-VM-UFT12 = 192.168.1.117
+[Network Analyzer ( 540: 120)]   (Sid:  1) Client -> Server @ : 275 bytes 
+[Network Analyzer ( 540: ae0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer ( 540: ae0)] Address lookup for IDC1-VM-UFT12 = 192.168.1.117
+[Network Analyzer ( 540: 120)]   (Sid:  1) Server -> Client : 664 bytes 
+[Network Analyzer ( 540: ae0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  3)  PROXIED!
+[WinInet Request  ( 540: a90)] GET "http://127.0.0.1:1080/WebTours/index.htm"
+[Network Analyzer ( 540: 120)]   (Sid:  1) Client -> Server @ : 328 bytes 
+[Network Analyzer ( 540: 120)]   (Sid:  1) Server -> Client : 1007 bytes 
+[Network Analyzer ( 540: 120)]   (Sid:  1) Client -> Server @ : 339 bytes 
+[WinInet Request  ( 540: a90)] GET "http://127.0.0.1:1080/WebTours/header.html"
+[Network Analyzer ( 540: 120)]   (Sid:  2) Client -> Server @ : 350 bytes 
+[Network Analyzer ( 540: 120)]   (Sid:  2) Server -> Client : 899 bytes 
+[WinInet Request  ( 540: 3ec)] GET "http://127.0.0.1:1080/WebTours/images/hp_logo.png"
+[Network Analyzer ( 540: 120)]   (Sid:  2) Client -> Server @ : 351 bytes 
+[Network Analyzer ( 540: 120)]   (Sid:  2) Server -> Client : 4486 bytes 
+[WinInet Request  ( 540: 8ec)] GET "http://127.0.0.1:1080/WebTours/images/webtours.png"
+[Network Analyzer ( ab4: 840)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( ab4: 840)] Load Network Traffic Analyzers:
+[Network Analyzer ( ab4: 840)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer ( ab4: 840)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer ( ab4: 840)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer ( ab4: 840)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer ( ab4: 840)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer ( ab4: 840)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer ( ab4: 840)]     Analyzer Module: local_server (value=)
+[Network Analyzer ( ab4: 840)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( ab4: 4dc)] Address lookup for IDC1-VM-UFT12 = 192.168.1.117
+[Network Analyzer ( 540: 120)]   (Sid:  1) Server -> Client : 1020 bytes 
+[Network Analyzer ( 540: 120)]   (Sid:  1) Server -> Client : 5 bytes 
+[WinInet Request  ( 540: a90)] GET "http://127.0.0.1:1080/cgi-bin/welcome.pl?signOff=true"
+[Network Analyzer ( 540: 120)]   (Sid:  1) Client -> Server @ : 371 bytes 
+[Network Analyzer ( 540: 120)]   (Sid:  2) Client -> Server @ : 367 bytes 
+[Network Analyzer ( 540: 120)]   (Sid:  2) Server -> Client : 1659 bytes 
+[WinInet Request  ( 540: a90)] GET "http://127.0.0.1:1080/WebTours/home.html"
+[Network Analyzer ( 540: 120)]   (Sid:  1) Server -> Client : 1752 bytes 
+[Network Analyzer ( 540: 120)]   (Sid:  1) Server -> Client : 5 bytes 
+[WinInet Request  ( 540: a90)] GET "http://127.0.0.1:1080/cgi-bin/nav.pl?in=home"
+[Network Analyzer ( 540: 648)] Address lookup for IDC1-VM-UFT12 = 192.168.1.117
+[Network Analyzer ( 540: 8ec)] Address lookup for IDC1-VM-UFT12 = 192.168.1.117
+[Network Analyzer ( 540: ae0)] Address lookup for IDC1-VM-UFT12 = 192.168.1.117
+[Network Analyzer ( 540:  f0)] Address lookup for IDC1-VM-UFT12 = 192.168.1.117
+[Network Analyzer ( 540: 120)]   (Sid:  1) Client -> Server @ : 382 bytes 
+[Network Analyzer ( ab4: 840)] Address lookup for IDC1-VM-UFT12 = 192.168.1.117
+[Network Analyzer ( ab4: 898)] Address lookup for IDC1-VM-UFT12 = 192.168.1.117
+[Network Analyzer ( 540: 120)]   (Sid:  1) Server -> Client : 976 bytes 
+[WinInet Request  ( 540: 3ec)] GET "http://127.0.0.1:1080/WebTours/images/mer_login.gif"
+[Network Analyzer ( 540: 7c8)] Address lookup for IDC1-VM-UFT12 = 192.168.1.117
+[Network Analyzer ( ab4: 840)] Request Connection: Remote Server @ 204.79.197.200:80   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer ( ab4: 898)] Request Connection: Remote Server @ 204.79.197.200:80   (Service=)  (Sid=  2)  PROXIED!
+[Web Request      ( ab4: 4dc)] "GET /favicon.ico"   
+[Network Analyzer ( ab4: 4dc)]   (Sid:  1) Client -> Server @ : 228 bytes (Service=HTTP)
+[Network Analyzer ( ab4: 4dc)]   (Sid:  1) Server -> Client : 543 bytes  (Service=HTTP)
+[Network Analyzer ( 540: 648)] Request Connection: Remote Server @ 40.74.131.199:443   (Service=)  (Sid=  4)  PROXIED!
+[WinInet Request  ( ab4: 744)] GET "http://www.bing.com/favicon.ico"
+[Network Analyzer ( 540: 8ec)] Request Connection: Remote Server @ 40.74.131.199:443   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer ( 540: ae0)] Request Connection: Remote Server @ 40.74.131.199:443   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer ( 540:  f0)] Request Connection: Remote Server @ 40.74.131.199:443   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer ( 540: 7c8)] Request Connection: Remote Server @ 40.74.131.199:443   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer ( 540: 120)]   (Sid:  1) Client -> Server @ : 238 bytes 
+[Network Analyzer ( 540: 120)]   (Sid:  1) Server -> Client : 424 bytes 
+[WinInet Request  ( 540: 954)] GET "http://127.0.0.1:1080/favicon.ico"
+[Network Analyzer ( 540: 3ec)] Address lookup for IDC1-VM-UFT12 = 192.168.1.117
+[Network Analyzer ( 540: 3ec)] Request Connection: Remote Server @ 40.74.131.199:443   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer ( 540: 5cc)]   (Sid:  5) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES256-SHA)
+[Network Analyzer ( 540: 5cc)]   (Sid:  5) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer ( 540: 970)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES256-SHA)
+[Network Analyzer ( 540: 698)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES256-SHA)
+[Network Analyzer ( 540: 970)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer ( 540: 698)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer ( 540: 918)]   (Sid:  6) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES256-SHA)
+[Network Analyzer ( 540: 918)]   (Sid:  6) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer ( 540: 724)]   (Sid:  4) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer ( 540: 724)]   (Sid:  4) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer ( 540: a74)] Address lookup for IDC1-VM-UFT12 = 192.168.1.117
+[Network Analyzer ( 540:  f4)]   (Sid:  9) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES256-SHA)
+[Network Analyzer ( 540:  f4)]   (Sid:  9) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer ( 540: a74)] Request Connection: Remote Server @ 198.41.214.185:80   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer ( 540: 120)]   (Sid:  2) Connection Terminated (by Server)
+[Network Analyzer ( 540: 120)]   (Sid:  1) Connection Terminated (by Server)
+[Network Analyzer ( 540: 120)]   (Sid:  3) Client -> Server @ : 574 bytes 
+[Network Analyzer ( 540: 120)]   (Sid:  3) Server -> Client : 847 bytes 
+[WinInet Request  ( 540: a90)] POST "http://127.0.0.1:1080/cgi-bin/login.pl"
+[Network Analyzer ( 540: 120)]   (Sid:  3) Server -> Client : 5 bytes 
+[Network Analyzer ( 540: 120)]   (Sid:  3) Client -> Server @ : 476 bytes 
+[Network Analyzer ( 540: a74)] Address lookup for IDC1-VM-UFT12 = 192.168.1.117
+[Network Analyzer ( 540: a74)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer ( 540: 120)]   (Sid:  3) Server -> Client : 1744 bytes 
+[Network Analyzer ( 540: 120)]   (Sid: 11) Client -> Server @ : 471 bytes 
+[Network Analyzer ( 540: 120)]   (Sid:  3) Server -> Client : 5 bytes 
+[WinInet Request  ( 540: a90)] GET "http://127.0.0.1:1080/cgi-bin/nav.pl?page=menu&in=home"
+[Network Analyzer ( 540: 120)]   (Sid:  3) Client -> Server @ : 500 bytes 
+[Network Analyzer ( 540: 120)]   (Sid:  3) Server -> Client : 1023 bytes 
+[WinInet Request  ( 540: 954)] GET "http://127.0.0.1:1080/WebTours/images/flights.gif"
+[Network Analyzer ( 540: 120)]   (Sid:  3) Client -> Server @ : 502 bytes 
+[Network Analyzer ( 540: 120)]   (Sid:  3) Server -> Client : 1030 bytes 
+[Network Analyzer ( 540: 120)]   (Sid: 11) Server -> Client : 1154 bytes 
+[Network Analyzer ( 540: 120)]   (Sid: 11) Server -> Client : 5 bytes 
+[Network Analyzer ( 540: a74)] Address lookup for IDC1-VM-UFT12 = 192.168.1.117
+[Network Analyzer ( 540: 5a8)] Address lookup for IDC1-VM-UFT12 = 192.168.1.117
+[Network Analyzer ( 540: 5a8)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer ( 540: 5d8)] Address lookup for IDC1-VM-UFT12 = 192.168.1.117
+[Network Analyzer ( 540: 5d8)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 13)  PROXIED!
+[WinInet Request  ( 540: 5d8)] GET "http://127.0.0.1:1080/WebTours/images/itinerary.gif"
+[Network Analyzer ( 540: 5a8)] Address lookup for IDC1-VM-UFT12 = 192.168.1.117
+[Network Analyzer ( 540: 5a8)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer ( 540: 120)]   (Sid: 12) Client -> Server @ : 500 bytes 
+[Network Analyzer ( 540: 120)]   (Sid: 13) Client -> Server @ : 500 bytes 
+[WinInet Request  ( 540: a90)] GET "http://127.0.0.1:1080/cgi-bin/login.pl?intro=true"
+[Network Analyzer ( 540: 954)] Address lookup for IDC1-VM-UFT12 = 192.168.1.117
+[Network Analyzer ( 540: 290)] Address lookup for IDC1-VM-UFT12 = 192.168.1.117
+[Network Analyzer ( 540: 120)]   (Sid: 12) Server -> Client : 986 bytes 
+[WinInet Request  ( 540: b1c)] GET "http://127.0.0.1:1080/WebTours/images/in_home.gif"
+[Network Analyzer ( 540: 120)]   (Sid: 13) Server -> Client : 1049 bytes 
+[WinInet Request  ( 540: 5a8)] GET "http://127.0.0.1:1080/WebTours/images/signoff.gif"
+[Network Analyzer ( 540: a74)] Request Connection: Remote Server @ 40.74.131.199:443   (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer ( 540: 290)] Request Connection: Remote Server @ 40.74.131.199:443   (Service=)  (Sid= 16)  PROXIED!
+[Network Analyzer ( 540: 954)] Request Connection: Remote Server @ 40.74.131.199:443   (Service=)  (Sid= 17)  PROXIED!
+[Network Analyzer ( 540: 8a8)]   (Sid: 15) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES256-SHA)
+[Network Analyzer ( 540: 8a8)]   (Sid: 15) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer ( 540: a6c)]   (Sid: 16) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES256-SHA)
+[Network Analyzer ( 540: a6c)]   (Sid: 16) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer ( 540: ac8)]   (Sid: 17) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES256-SHA)
+[Network Analyzer ( 540: ac8)]   (Sid: 17) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer ( 540: 5a8)] Address lookup for IDC1-VM-UFT12 = 192.168.1.117
+[Network Analyzer ( 540: 5a8)] Request Connection: Remote Server @ 117.18.232.200:80   (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer ( 540: 120)]   (Sid: 13) Client -> Server @ : 490 bytes 
+[Network Analyzer ( 540: 120)]   (Sid: 13) Server -> Client : 824 bytes 
+[WinInet Request  ( 540: a90)] GET "http://127.0.0.1:1080/cgi-bin/welcome.pl?page=search"
+[Network Analyzer ( 540: 120)]   (Sid: 13) Client -> Server @ : 493 bytes 
+[Network Analyzer ( 540: 120)]   (Sid: 12) Client -> Server @ : 494 bytes 
+[Network Analyzer ( 540: 120)]   (Sid: 13) Server -> Client : 1731 bytes 
+[WinInet Request  ( 540: a90)] GET "http://127.0.0.1:1080/cgi-bin/nav.pl?page=menu&in=flights"
+[Network Analyzer ( 540: 120)]   (Sid: 13) Client -> Server @ : 506 bytes 
+[Network Analyzer ( 540: 120)]   (Sid: 11) Client -> Server @ : 500 bytes 
+[Network Analyzer ( 540: 120)]   (Sid: 11) Server -> Client : 985 bytes 
+[WinInet Request  ( 540: b1c)] GET "http://127.0.0.1:1080/WebTours/images/home.gif"
+[Network Analyzer ( 540: 5a8)] Address lookup for IDC1-VM-UFT12 = 192.168.1.117
+[Network Analyzer ( 540: 5d8)] Address lookup for IDC1-VM-UFT12 = 192.168.1.117
+[Network Analyzer ( 540: 120)]   (Sid: 13) Server -> Client : 1023 bytes 
+[WinInet Request  ( 540: 838)] GET "http://127.0.0.1:1080/WebTours/images/in_flights.gif"
+[Network Analyzer ( 540: 5a8)] Request Connection: Remote Server @ 40.74.131.199:443   (Service=)  (Sid= 19)  PROXIED!
+[Network Analyzer ( 540: 5d8)] Request Connection: Remote Server @ 40.74.131.199:443   (Service=)  (Sid= 20)  PROXIED!
+[Network Analyzer ( 540: 120)]   (Sid: 12) Server -> Client : 4495 bytes 
+[WinInet Request  ( 540: a90)] GET "http://127.0.0.1:1080/cgi-bin/reservations.pl?page=welcome"
+[Network Analyzer ( 540: 120)]   (Sid: 12) Client -> Server @ : 508 bytes 
+[Network Analyzer ( 540: 120)]   (Sid: 12) Server -> Client : 1055 bytes 
+[WinInet Request  ( 540: b1c)] GET "http://127.0.0.1:1080/WebTours/images/button_next.gif"
+[Network Analyzer ( 540: ad8)]   (Sid: 19) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES256-SHA)
+[Network Analyzer ( 540: ad8)]   (Sid: 19) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer ( 540: 838)] Address lookup for IDC1-VM-UFT12 = 192.168.1.117
+[Network Analyzer ( 540: 838)] Request Connection: Remote Server @ 40.74.131.199:443   (Service=)  (Sid= 21)  PROXIED!
+[Network Analyzer ( 540: 910)]   (Sid: 20) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES256-SHA)
+[Network Analyzer ( 540: 910)]   (Sid: 20) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer ( 540: 904)]   (Sid: 21) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES256-SHA)
+[Network Analyzer ( 540: 904)]   (Sid: 21) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer ( 540: 120)]   (Sid:  3) Connection Terminated (by Server)
+[Network Analyzer ( 540: 964)] Address lookup for IDC1-VM-UFT12 = 192.168.1.117
+[Network Analyzer ( 540: 964)] Request Connection: Remote Server @ 124.124.252.114:80   (Service=)  (Sid= 22)  PROXIED!
+[Network Analyzer ( 540: 120)]   (Sid: 12) Client -> Server @ : 820 bytes 
+[Network Analyzer ( 540: 120)]   (Sid: 12) Server -> Client : 2698 bytes 
+[WinInet Request  ( 540: a90)] POST "http://127.0.0.1:1080/cgi-bin/reservations.pl"
+[Network Analyzer ( 540: 120)]   (Sid: 12) Server -> Client : 5 bytes 
+[Network Analyzer ( 540: 964)] Address lookup for IDC1-VM-UFT12 = 192.168.1.117
+[Network Analyzer ( 540: 120)]   (Sid: 11) Connection Terminated (by Server)
+[Network Analyzer ( 540: 964)] Request Connection: Remote Server @ 40.74.131.199:443   (Service=)  (Sid= 23)  PROXIED!
+[Network Analyzer ( 540: 120)]   (Sid: 13) Connection Terminated (by Server)
+[Network Analyzer ( 540: 120)]   (Sid: 10) Connection Terminated (by Server)
+[Network Analyzer ( 540: b38)]   (Sid: 23) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES256-SHA)
+[Network Analyzer ( 540: b38)]   (Sid: 23) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
